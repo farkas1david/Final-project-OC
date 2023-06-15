@@ -1,4 +1,4 @@
-# OPEN CART PROJECT
+# OPENCART PROJECT
 ### TEST PLAN
 
     1. Introduction
