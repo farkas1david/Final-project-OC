@@ -1,4 +1,4 @@
-[Jira.csv](https://github.com/farkas1david/Final-project-OC/files/13253037/Jira.csv)[Jira.csv](https://github.com/farkas1david/Final-project-OC/files/13252990/Jira.csv)# OPENCART PROJECT
+# OPENCART PROJECT
 ### TEST PLAN
 
     1. Introduction
@@ -113,7 +113,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 
 ##### 3.3 Test cases
-[Uploading Jira.csv…]()
+Here you can find the [test cases](https://github.com/farkas1david/Final-project-OC/files/13253212/ZFJ-issue-export-11-03-2023-272134bffffcccf-0001.xlsx)
 
 
 ##### 3.4 Daily test summary report
@@ -123,13 +123,13 @@ The plan identifies the items to be tested, the features to be tested, the type 
 ##### 3.5 Traceability matrix
 ![traceability matrix](https://github.com/farkas1david/Final-project-OC/assets/132594193/2c59a1bb-13f0-44e5-9bf6-5eb5b68444fb)
 
-[Traceability Report (Recursive) (Jira).pdf](https://github.com/farkas1david/Final-project-OC/files/13120445/Traceability.Report.Recursive.Jira.pdf)
+[Traceability Report from Jira](https://github.com/farkas1david/Final-project-OC/files/13120445/Traceability.Report.Recursive.Jira.pdf)
 
 ##### 3.6 Test case results
-[test cases and results.pdf](https://github.com/farkas1david/Final-project-OC/files/13120447/test.cases.and.results.pdf)
+The results for the test cases can be found [here.](https://github.com/farkas1david/Final-project-OC/files/13120447/test.cases.and.results.pdf)
 
 ##### 3.7 Bugs report
-[bug report.pdf](https://github.com/farkas1david/Final-project-OC/files/13120463/bug.report.pdf)
+During the project, we encountered two issues, which can be found [here.](https://github.com/farkas1david/Final-project-OC/files/13120463/bug.report.pdf)
 
 ##### 3.8 Test completion report
 ![test completion report](https://github.com/farkas1david/Final-project-OC/assets/132594193/815c9b79-564f-481d-aece-d20115a99de6)
