@@ -36,7 +36,8 @@ Tools: Jira, Zephyr Squad
 ##### 1.2 Functionalities in scope
 - All the features of Uploads menu which were defined in business requirements need to be tested: functional testing, GUI testing.  
 - The below user story was created in Jira and describes functional specifications of the Upload menu.
-![Screenshot Jira](https://github.com/farkas1david/Final-project-OC/assets/132594193/f48a67ea-0aa9-4240-829b-0ef0926d9b37)
+![user story](https://github.com/farkas1david/Final-project-OC/assets/132594193/4fcc7458-6d1b-4330-bae9-02958943077d)
+
 
 ##### 1.3Functionalities and tests out of scope
 - Non-functional testing like stress, performance is beyond scope of this project 
