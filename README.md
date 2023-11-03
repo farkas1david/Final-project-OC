@@ -1,4 +1,4 @@
-# OPENCART PROJECT
+[Jira.csv](https://github.com/farkas1david/Final-project-OC/files/13253037/Jira.csv)[Jira.csv](https://github.com/farkas1david/Final-project-OC/files/13252990/Jira.csv)# OPENCART PROJECT
 ### TEST PLAN
 
     1. Introduction
@@ -109,10 +109,12 @@ Various periodic reports were generated to reflect the current status of the tes
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan.
 
 ##### 3.2 Test conditions
-![Screenshot Jira](https://github.com/farkas1david/Final-project-OC/assets/132594193/9a800cc5-e1ec-48f6-9051-3f995aba11be)
+![test_conditions](https://github.com/farkas1david/Final-project-OC/assets/132594193/3561417e-05b9-4f3f-8a80-13c0a6933949)
+
 
 ##### 3.3 Test cases
-![test_cases](https://github.com/farkas1david/Final-project-OC/assets/132594193/904f275e-6999-4671-af82-0e5e798e120a)
+[Uploading Jira.csv…]()
+
 
 ##### 3.4 Daily test summary report
 ![Daily test execution](https://github.com/farkas1david/Final-project-OC/assets/132594193/488bdb3d-c0a7-4475-b782-a5cb2d40fe12)
