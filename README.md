@@ -91,7 +91,7 @@ Tools: Jira, Zephyr Squad
 
 ##### 2.5 Test execution
 - Test cases are executed on the created cycle summary 
-- Bugs have been created based on the failed test cases. The complete bug reports can be found here: https://github.com/farkas1david/Final-project-OC/blob/e0770d9b8d9e26247ac11c6ba1222ea480b35474/bug-reports.md
+- Bugs have been created based on the failed test cases. The complete bug reports can be found [here](https://github.com/farkas1david/Final-project-OC/blob/main/bug-reports.md) 
 - Full regression pack is executed after changes made to the application
 
 ##### 2.6 Test closure
