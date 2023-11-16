@@ -109,7 +109,8 @@ Various periodic reports were generated to reflect the current status of the tes
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan.
 
 ##### 3.2 Test conditions
-![test_conditions](https://github.com/farkas1david/Final-project-OC/assets/132594193/3561417e-05b9-4f3f-8a80-13c0a6933949)
+![test condition](https://github.com/farkas1david/Final-project-OC/assets/132594193/7d6f78c6-ee2a-4bc9-8568-840bda4f3940)
+
 
 
 ##### 3.3 Test cases
@@ -121,9 +122,11 @@ Here you can find the [test cases](https://github.com/farkas1david/Final-project
 ![daily test execution 2](https://github.com/farkas1david/Final-project-OC/assets/132594193/770a9f51-77a1-446a-a54b-cb506be0aabb)
 
 ##### 3.5 Traceability matrix
-![traceability matrix](https://github.com/farkas1david/Final-project-OC/assets/132594193/2c59a1bb-13f0-44e5-9bf6-5eb5b68444fb)
+![traceability matrix](https://github.com/farkas1david/Final-project-OC/assets/132594193/9a7eca3f-8278-4355-94a4-24de7bf93495)
 
-[Traceability Report from Jira](https://github.com/farkas1david/Final-project-OC/files/13120445/Traceability.Report.Recursive.Jira.pdf)
+
+[Traceability Report from Jira](https://github.com/farkas1david/Final-project-OC/files/13381052/Traceability.Report.Recursive.Jira.1.pdf)
+
 
 ##### 3.6 Test case results
 The results for the test cases can be found [here.](https://github.com/farkas1david/Final-project-OC/files/13120447/test.cases.and.results.pdf)
