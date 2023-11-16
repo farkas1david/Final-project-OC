@@ -116,7 +116,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 Here you can find the [test cases](https://github.com/farkas1david/Final-project-OC/files/13253212/ZFJ-issue-export-11-03-2023-272134bffffcccf-0001.xlsx)
 
 
-##### 3.4 Daily test summary report
+##### 3.4 Daily test status report
 ![Daily test execution](https://github.com/farkas1david/Final-project-OC/assets/132594193/488bdb3d-c0a7-4475-b782-a5cb2d40fe12)
 ![daily test execution 2](https://github.com/farkas1david/Final-project-OC/assets/132594193/770a9f51-77a1-446a-a54b-cb506be0aabb)
 
