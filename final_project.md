@@ -22,6 +22,7 @@
         3.6 Test case results
         3.7 Bugs report
         3.8 Test completion report
+        3.9 Conclusions
 
 #### 1. INTRODUCTION
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage the testing process for Opencart.
@@ -136,4 +137,13 @@ During the project, we encountered two issues, which can be found [here.](https:
 
 ##### 3.8 Test completion report
 ![test completion report](https://github.com/farkas1david/Final-project-OC/assets/132594193/815c9b79-564f-481d-aece-d20115a99de6)
+
+##### 3.9 Conclusions
+
+Following the testing, we encountered the following aspects:
+
+- In total, the project had 1 story, representing the requirements and functionalities specified for development.
+- That story was covered by 10 tests, out of which 10 were executed and evaluated.
+- During the tests, 2 bugs were identified.
+- The identified bugs have a low priority, are less severe, and can be addressed in a subsequent release.
 
